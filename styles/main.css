@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css?family=Comfortaa|Patua+One");
+
+/*Typography
+--------------------------------------------------------------*/
+body,
+button,
+input,
+select,
+textarea {
+	color: #404040;
+	font-family: "Comfortaa", Arial, sans-serif;
+	font-size: 14px;
+	line-height: 1.5;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: "Patua One", serif;
+  letter-spacing: 2px;
+}
+
+.blue {
+    background-color: aliceblue;
+}
+
+.green {
+    background-color: darkseagreen;
+}
+
+.purple {
+    background-color: mediumorchid;
+}
+
+.red {
+    background-color: darksalmon;
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    
+  }
+
+  .plant {
+    width: calc(16.66% - 10px); /* Each column will be roughly 16.66% width with a little margin between items */
+    margin-bottom: 20px; /* Adjust this to add some space between rows */
+    padding: 10px; /* Just for visualization, you can remove this */
+    text-align: center;
+  }
+
