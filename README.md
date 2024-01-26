@@ -1,0 +1,1 @@
+Javascript File WOrk, and very first time getting a self assessment in the school time at NSS. Reviewed my code and also had to finish the project completely in JS VAnilla. LANDMARK FOR ME. welcome to modern farm. 
